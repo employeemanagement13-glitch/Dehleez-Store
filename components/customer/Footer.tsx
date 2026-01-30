@@ -45,7 +45,7 @@ export default function Footer() {
                                 <Image src="/reddit.png" height={16} width={16} alt="Reddit" className='invert' />
                             </a>
                             <a href="https://medium.com" target="_blank" rel="noopener noreferrer" className="p-2 bg-neutral-900 rounded-full text-neutral-500 hover:text-white transition-colors border border-neutral-800" title="Medium">
-                                <Image src="/medium.png" height={16} width={16} alt="Medium" className='invert' />
+                                <Image src="/medium.png" height={16} width={16} alt="Medium" className='' />
                             </a>
                             <a href="https://x.com" target="_blank" rel="noopener noreferrer" className="p-2 bg-neutral-900 rounded-full text-neutral-500 hover:text-white transition-colors border border-neutral-800" title="X (Twitter)">
                                 <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
