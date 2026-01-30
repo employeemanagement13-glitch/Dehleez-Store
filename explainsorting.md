@@ -1,0 +1,1 @@
+Popularity is decided based on the **number of sales** (the count of individual orders that include the product), rather than the total quantity sold. This ensures that products frequently chosen by different customers are shown first.
