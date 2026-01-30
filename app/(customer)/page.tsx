@@ -38,7 +38,7 @@ export default async function HomePage() {
                     <div className="flex flex-col sm:flex-row sm:justify-between sm:items-end gap-4 mb-8 md:mb-12">
                         <div>
                             <h2 className="text-[10px] md:text-xs font-black uppercase tracking-[0.2em] md:tracking-[0.3em] text-neutral-500 mb-1 md:mb-2">Curated Selection</h2>
-                            <h3 className="text-2xl md:text-4xl font-bold text-white tracking-tighter uppercase">Featured Products</h3>
+                            <h3 className="text-2xl md:text-4xl font-bold text-white tracking-tighter">Featured Products</h3>
                         </div>
                         <Link href="/shop" className="text-[10px] font-black uppercase tracking-widest text-white border-b border-white pb-1 hover:text-neutral-400 hover:border-neutral-400 transition-all w-fit">
                             View All
