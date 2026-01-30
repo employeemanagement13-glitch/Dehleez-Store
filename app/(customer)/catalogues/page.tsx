@@ -57,7 +57,7 @@ export default function CataloguesPage() {
             <div className="max-w-6xl mx-auto px-6 pt-12">
                 {/* Header */}
                 <header className="mb-12 border-b border-neutral-800 pb-12">
-                    <h1 className="text-5xl font-bold text-white tracking-tighter uppercase mb-4">Catalogues</h1>
+                    <h1 className="text-5xl font-bold text-white tracking-tighter mb-4">Catalogues</h1>
                     <p className="text-neutral-400 text-lg max-w-2xl">
                         Browse our curated collections, each showcasing a unique selection of premium outerwear.
                     </p>
