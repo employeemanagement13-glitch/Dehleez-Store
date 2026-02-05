@@ -11,9 +11,9 @@ export default function PrivacyPolicyPage() {
                     <section>
                         <h2 className="text-2xl font-bold mb-6 tracking-tight">Introduction</h2>
                         <p className="text-neutral-400 leading-relaxed text-lg">
-                            At Dehleez, we believe fashion should be simple, elegant, and dependable.
+                            At Sandeez, we believe fashion should be simple, elegant, and dependable.
                             This Privacy Policy describes how we collect, use, and disclose your personal information
-                            when you visit or make a purchase from dehleezpk.com.
+                            when you visit or make a purchase from sandeez.com.
                         </p>
                     </section>
 
@@ -80,8 +80,8 @@ export default function PrivacyPolicyPage() {
                         please reach out to our dedicated support team.
                     </p>
                     <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
-                        <a href="mailto:contact@dehleezpk.com" className="text-white font-bold text-xl hover:text-neutral-300 transition-colors border-b-2 border-white pb-1">
-                            contact@dehleezpk.com
+                        <a href="mailto:contact@sandeez.com" className="text-white font-bold text-xl hover:text-neutral-300 transition-colors border-b-2 border-white pb-1">
+                            contact@sandeez.com
                         </a>
                         <span className="hidden sm:block text-neutral-700">|</span>
                         <span className="text-neutral-400 font-mono text-sm uppercase tracking-widest">
