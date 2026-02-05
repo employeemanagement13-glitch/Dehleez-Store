@@ -92,7 +92,7 @@ export default function CheckoutPage() {
                         <ArrowLeft className="w-4 h-4 mr-2" />
                         Back to shopping
                     </Link>
-                    <h1 className="text-5xl font-black tracking-tighter">Checkout</h1>
+                    <h1 className="text-5xl font-bold tracking-tighter">Checkout</h1>
                 </div>
 
                 <div className="grid lg:grid-cols-12 gap-12">
@@ -100,7 +100,7 @@ export default function CheckoutPage() {
                     <div className="lg:col-span-7">
                         <form onSubmit={handleSubmit} className="space-y-12">
                             <section>
-                                <h2 className="text-xl font-black mb-8 tracking-tight">Contact Information</h2>
+                                <h2 className="text-xl font-bold mb-8 tracking-tight">Contact Information</h2>
                                 <div className="grid md:grid-cols-2 gap-8">
                                     <div className="md:col-span-2">
                                         <label className="text-[11px] font-bold text-neutral-500 mb-2 block tracking-tight">
@@ -145,7 +145,7 @@ export default function CheckoutPage() {
                             </section>
 
                             <section>
-                                <h2 className="text-xl font-black mb-8 tracking-tight">Shipping Address</h2>
+                                <h2 className="text-xl font-bold mb-8 tracking-tight">Shipping Address</h2>
                                 <div className="space-y-8">
                                     <div>
                                         <label className="text-[11px] font-bold text-neutral-500 mb-2 block tracking-tight">
@@ -210,14 +210,14 @@ export default function CheckoutPage() {
                             </section>
 
                             <section>
-                                <h2 className="text-xl font-black mb-8 tracking-tight">Payment Method</h2>
+                                <h2 className="text-xl font-bold mb-8 tracking-tight">Payment Method</h2>
                                 <div className="bg-neutral-950 border border-neutral-800 p-8 rounded-2xl">
                                     <div className="flex items-center gap-6">
                                         <div className="w-12 h-12 flex items-center justify-center bg-white text-black rounded-full shrink-0">
                                             <Package className="w-5 h-5" />
                                         </div>
                                         <div>
-                                            <p className="font-black tracking-tight text-lg">Cash on Delivery (COD)</p>
+                                            <p className="font-bold tracking-tight text-lg">Cash on Delivery (COD)</p>
                                             <p className="text-neutral-500 text-sm">Pay when your order arrives at your doorstep.</p>
                                         </div>
                                     </div>
