@@ -14,7 +14,7 @@ export default function TermsConditionsPage() {
         },
         {
             title: "Shipping",
-            content: "Delivery timelines may vary depending on location and courier service. Dehleez is not responsible for any delays once the parcel has been handed over to the courier."
+            content: "Delivery timelines may vary depending on location and courier service. Sandeez is not responsible for any delays once the parcel has been handed over to the courier."
         },
         {
             title: "Order Cancellations",
@@ -37,7 +37,7 @@ export default function TermsConditionsPage() {
                 <div className="prose prose-invert max-w-none space-y-16">
                     <section>
                         <p className="text-xl text-neutral-400 leading-relaxed font-bold">
-                            Welcome to Dehleez. By placing an order with us, you agree to the following terms and conditions
+                            Welcome to Sandeez. By placing an order with us, you agree to the following terms and conditions
                             which govern our relationship with you in relation to this website and your purchases.
                         </p>
                     </section>
@@ -57,7 +57,7 @@ export default function TermsConditionsPage() {
                     <section className="bg-neutral-900/50 p-10 rounded-2xl border border-neutral-800">
                         <h2 className="text-2xl font-bold mb-6 tracking-tight">Intellectual Property</h2>
                         <p className="text-neutral-400 leading-relaxed text-lg mb-0">
-                            All content, including designs, images, logos, and text on our page, are the property of Dehleez
+                            All content, including designs, images, logos, and text on our page, are the property of Sandeez
                             and may not be reproduced, copied, or used for any purpose without explicit written permission.
                         </p>
                     </section>
@@ -69,8 +69,8 @@ export default function TermsConditionsPage() {
                         If you have any questions about these Terms, please contact our support team.
                     </p>
                     <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
-                        <a href="mailto:contact@dehleezpk.com" className="text-white font-bold text-xl hover:text-neutral-300 transition-colors border-b-2 border-white pb-1">
-                            contact@dehleezpk.com
+                        <a href="mailto:contact@sandeez.com" className="text-white font-bold text-xl hover:text-neutral-300 transition-colors border-b-2 border-white pb-1">
+                            contact@sandeez.com
                         </a>
                     </div>
                 </div>
