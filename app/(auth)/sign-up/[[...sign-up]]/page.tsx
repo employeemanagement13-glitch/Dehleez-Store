@@ -12,9 +12,9 @@ export default function Page() {
                         headerSubtitle: "text-neutral-400",
                         socialButtonsBlockButton: "bg-neutral-800 border-neutral-700 text-white hover:bg-neutral-700",
                         socialButtonsBlockButtonText: "text-white",
-                        formFieldLabel: "text-neutral-400",
+                        formFieldLabel: "text-white",
                         formFieldInput: "bg-black border-neutral-800 text-white focus:ring-white",
-                        footerActionText: "text-neutral-500",
+                        footerActionText: "text-white",
                         footerActionLink: "text-white hover:text-neutral-300 transition-colors"
                     }
                 }}
