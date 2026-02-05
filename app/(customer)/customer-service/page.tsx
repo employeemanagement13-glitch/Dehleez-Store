@@ -40,7 +40,7 @@ export default function CustomerServicePage() {
                             </p>
                         </div>
                         <div className="flex flex-col justify-center items-center md:items-end gap-6">
-                            <a href="mailto:contact@sandeezpk.com" className="btn-primary !py-4 !px-8 !rounded-xl !text-xs !bg-white !text-black !font-black !uppercase !tracking-widest">
+                            <a href="mailto:contact@sandeez.com" className="btn-primary !py-4 !px-8 !rounded-xl !text-xs !bg-white !text-black !font-black !uppercase !tracking-widest">
                                 Contact Team
                             </a>
                         </div>
