@@ -56,8 +56,8 @@ export default function ContactUsPage() {
                             <div className="space-y-6">
                                 <div className="group">
                                     <p className="text-[10px] font-bold text-white uppercase mb-1">Email Support</p>
-                                    <a href="mailto:contact@dehleezpk.com" className="text-lg font-bold text-gray-100 group-hover:text-neutral-400 transition-colors">
-                                        contact@dehleezpk.com
+                                    <a href="mailto:contact@sandeez.com" className="text-lg font-bold text-gray-100 group-hover:text-neutral-400 transition-colors">
+                                        contact@sandeez.com
                                     </a>
                                 </div>
                                 <div className="group">
