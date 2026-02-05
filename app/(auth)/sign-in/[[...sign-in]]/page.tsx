@@ -6,7 +6,7 @@ export default function Page() {
             <SignIn
                 appearance={{
                     elements: {
-                        formButtonPrimary: "bg-neutral-900 text-white hover:bg-neutral-200 transition-colors",
+                        formButtonPrimary: "bg-neutral-800 text-white hover:bg-neutral-200 transition-colors",
                         card: "bg-neutral-900 border border-neutral-800",
                         headerTitle: "text-white",
                         headerSubtitle: "text-neutral-400",
