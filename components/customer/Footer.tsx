@@ -26,7 +26,7 @@ export default function Footer() {
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
                     {/* Brand */}
                     <div>
-                        <h3 className="text-xl font-black mb-4 tracking-tighter">Dehleez</h3>
+                        <h3 className="text-xl font-black mb-4 tracking-tighter">Sandeez</h3>
                         <p className="text-neutral-500 text-sm leading-relaxed font-medium">
                             Premium outerwear designed for the modern lifestyle. Bridging the gap between traditional craftsmanship and contemporary aesthetics in Pakistan.
                         </p>
@@ -95,7 +95,7 @@ export default function Footer() {
 
                 <div className="border-t border-neutral-900 mt-20 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
                     <p className="text-xs text-neutral-600 font-medium">
-                        © {currentYear} Dehleez. All rights reserved.
+                        © {currentYear} Sandeez. All rights reserved.
                     </p>
                     <p className="text-xs text-neutral-600 font-medium">
                         Made in Pakistan.
