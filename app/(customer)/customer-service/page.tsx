@@ -12,7 +12,7 @@ export default function CustomerServicePage() {
                 <header className="mb-20">
                     <h1 className="text-5xl font-bold mb-6 tracking-tight">Help Center</h1>
                     <p className="text-neutral-400 text-xl font-medium leading-relaxed max-w-2xl">
-                        Everything you need to know to shop with confidence at Dehleez.
+                        Everything you need to know to shop with confidence at Sandeez.
                         Our team is dedicated to providing you with the best experience.
                     </p>
                 </header>
@@ -40,7 +40,7 @@ export default function CustomerServicePage() {
                             </p>
                         </div>
                         <div className="flex flex-col justify-center items-center md:items-end gap-6">
-                            <a href="mailto:contact@dehleezpk.com" className="btn-primary !py-4 !px-8 !rounded-xl !text-xs !bg-white !text-black !font-black !uppercase !tracking-widest">
+                            <a href="mailto:contact@sandeezpk.com" className="btn-primary !py-4 !px-8 !rounded-xl !text-xs !bg-white !text-black !font-black !uppercase !tracking-widest">
                                 Contact Team
                             </a>
                         </div>
