@@ -49,7 +49,7 @@ export default function ShippingInfoPage() {
                         <div className="p-8 border border-neutral-900 rounded-2xl bg-neutral-950">
                             <h3 className="text-white font-bold mb-2">Notice:</h3>
                             <p className="text-neutral-500 text-sm">
-                                Dehleez is not responsible for any delays caused by courier services or unforeseen circumstances
+                                Sandeez is not responsible for any delays caused by courier services or unforeseen circumstances
                                 once the parcel has been handed over for delivery.
                             </p>
                         </div>
