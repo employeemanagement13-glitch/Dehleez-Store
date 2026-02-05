@@ -6,7 +6,7 @@ import './globals.css'
 const outfit = Outfit({ subsets: ['latin'], variable: '--font-outfit' })
 
 export const metadata: Metadata = {
-    title: 'Dehleez | Premium Outerwear Store',
+    title: 'Sandeez | Premium Outerwear Store',
     description: 'Shop premium quality jackets, puffers, leather jackets, and coats for men and women. Fast delivery across Pakistan with Cash on Delivery.',
     keywords: ['jackets', 'coats', 'puffers', 'leather jackets', 'winter wear', 'Pakistan'],
 }
