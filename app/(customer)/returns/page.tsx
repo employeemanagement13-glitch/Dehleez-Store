@@ -5,7 +5,7 @@ export default function ReturnsPage() {
                 <header className="mb-16">
                     <h1 className="text-5xl font-bold mb-6 tracking-tight">Returns & Exchanges</h1>
                     <p className="text-xl text-neutral-400 font-medium leading-relaxed">
-                        At Dehleez, we ensure every order is carefully checked before dispatch to meet our premium quality standards.
+                        At Sandeez, we ensure every order is carefully checked before dispatch to meet our premium quality standards.
                     </p>
                 </header>
 
@@ -58,8 +58,8 @@ export default function ReturnsPage() {
                             "Thanks for understanding our commitment to sustainable and fair business practices."
                         </p>
                         <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
-                            <a href="mailto:contact@dehleezpk.com" className="text-white font-black text-lg hover:text-neutral-300 transition-colors border-b-2 border-white pb-1 tracking-tight">
-                                contact@dehleezpk.com
+                            <a href="mailto:contact@sandeez.com" className="text-white font-black text-lg hover:text-neutral-300 transition-colors border-b-2 border-white pb-1 tracking-tight">
+                                contact@sandeez.com
                             </a>
                         </div>
                     </section>
