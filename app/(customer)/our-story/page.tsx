@@ -8,14 +8,14 @@ export default function AboutPage() {
                         Simple. Elegant. Dependable.
                     </h2>
                     <p className="text-neutral-500 text-xl font-medium leading-relaxed max-w-2xl mx-auto">
-                        This is the essence behind every collection we create at Dehleez.
+                        This is the essence behind every collection we create at Sandeez.
                     </p>
                 </header>
 
                 <div className="aspect-[21/9] bg-neutral-900 border border-neutral-800 rounded-3xl overflow-hidden relative shadow-2xl shadow-white/5">
                     <div className="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent z-10" />
                     <div className="absolute inset-0 flex items-center justify-center">
-                        <span className="text-white font-bold text-[12vw] select-none tracking-tighter leading-none opacity-50">DEHLEEZ</span>
+                        <span className="text-white font-bold text-[12vw] select-none tracking-tighter leading-none opacity-50">SANDEEZ</span>
                     </div>
                 </div>
 
@@ -25,7 +25,7 @@ export default function AboutPage() {
                             Bridging the gap between heritage and modern utility.
                         </p>
                         <p className="text-neutral-500 leading-relaxed text-lg font-medium">
-                            Dehleez (Ø¯ÛÙ„ÛŒØ²) represents a threshold. It is the point where traditional Pakistani craftsmanship
+                            Sandeez (Ø¯ÛÙ„ÛŒØ²) represents a threshold. It is the point where traditional Pakistani craftsmanship
                             meets the clean lines of contemporary design. Born in Lahore, we sought to redefine what it means
                             to be "Made in Pakistan".
                         </p>
@@ -36,7 +36,7 @@ export default function AboutPage() {
                             <p className="text-neutral-400 leading-relaxed font-medium">
                                 We moved away from the transient nature of fast fashion. Our goal was to build a brand
                                 that values durability, character, and the stories woven into every garment.
-                                A Dehleez piece is meant to stay in your wardrobe for seasons to come.
+                                A Sandeez piece is meant to stay in your wardrobe for seasons to come.
                             </p>
                         </div>
                         <div className="px-10">
@@ -52,7 +52,7 @@ export default function AboutPage() {
 
                 <footer className="pt-20 border-t border-neutral-900 text-center">
                     <p className="text-neutral-700 text-[10px] font-bold tracking-[0.5em]">
-                        Established 2024 • Dehleez Pakistan
+                        Established 2024 • Sandeez Pakistan
                     </p>
                 </footer>
             </div>
