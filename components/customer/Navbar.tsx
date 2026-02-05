@@ -38,7 +38,7 @@ export default function Navbar() {
                     <div className="flex items-center gap-10">
                         {/* Logo */}
                         <Link href="/" className="text-2xl font-black text-white hover:text-neutral-300 transition-colors tracking-tighter">
-                            Dehleez
+                            Sandeez
                         </Link>
 
                         {/* Desktop Navigation */}
